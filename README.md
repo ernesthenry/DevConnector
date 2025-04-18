@@ -1,23 +1,47 @@
-# Devconnector
+# 💻 DevConnector
 
-A web app built using Django and NextJS(React) where developers can Create Developer profile/portfolio, share posts and get help from other developers.  It's a PWA as well
+DevConnector is a full-stack **Progressive Web Application (PWA)** built using **Django** and **Next.js (React)**. It serves as a mini social platform for developers to:
 
+- 👤 Create developer profiles/portfolios  
+- ✍️ Share posts and ideas  
+- 💬 Connect and collaborate with other developers  
 
-It's like a mini social media app where developers can build their profiles and share their thoughts.
+It also integrates with GitHub to showcase the user's latest repositories.
 
-In the profile page, it highlights the last three github repos updated by the user (If the user has a GitHub username)
+---
 
+## 🔥 Features
 
-This Web app was built using the follwoing technologies
+- Developer profile creation with portfolio links and bio  
+- Post creation and interaction  
+- GitHub integration – displays the **last 3 updated repositories**  
+- Responsive design  
+- PWA support – installable, offline-ready  
+- RESTful API backend powered by Django Rest Framework  
 
-```
-HTML
-CSS
-SASS
-Python
-Javascript (ES6)
-React
-NextJS
-Django
-Django Rest Framework
-```
+---
+
+## 🧪 Technologies Used
+
+### Frontend
+- HTML5  
+- CSS3  
+- SASS  
+- JavaScript (ES6+)  
+- React  
+- Next.js  
+
+### Backend
+- Python  
+- Django  
+- Django REST Framework  
+
+---
+
+## 🛠️ Setup Instructions
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/devconnector.git
+cd devconnector
